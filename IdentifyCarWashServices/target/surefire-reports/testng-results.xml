@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="288654" started-at="2021-03-01T12:39:58 IST" finished-at="2021-03-01T12:44:47 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="288654" started-at="2021-03-01T12:39:58 IST" finished-at="2021-03-01T12:44:47 IST">
+      <class name="com.test.TestNG">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.test.TestNG@d1af89]" name="getDriver" is-config="true" duration-ms="92832" started-at="2021-03-01T12:39:58 IST" finished-at="2021-03-01T12:41:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method status="PASS" signature="fetchCarWashServices()[pri:0, instance:com.test.TestNG@d1af89]" name="fetchCarWashServices" duration-ms="115912" started-at="2021-03-01T12:41:32 IST" finished-at="2021-03-01T12:43:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchCarWashServices -->
+        <test-method status="PASS" signature="checkFreeListing()[pri:0, instance:com.test.TestNG@d1af89]" name="checkFreeListing" duration-ms="53131" started-at="2021-03-01T12:43:28 IST" depends-on-methods="com.test.TestNG.fetchCarWashServices" finished-at="2021-03-01T12:44:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFreeListing -->
+        <test-method status="PASS" signature="fetchFitnessMenu()[pri:0, instance:com.test.TestNG@d1af89]" name="fetchFitnessMenu" duration-ms="18885" started-at="2021-03-01T12:44:21 IST" depends-on-methods="com.test.TestNG.checkFreeListing" finished-at="2021-03-01T12:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchFitnessMenu -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.test.TestNG@d1af89]" name="closeApplication" duration-ms="7327" started-at="2021-03-01T12:44:40 IST" depends-on-methods="com.test.TestNG.fetchFitnessMenu" finished-at="2021-03-01T12:44:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.test.TestNG -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

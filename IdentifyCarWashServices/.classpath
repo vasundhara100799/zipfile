@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/batik-all-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/bcpkix-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/fontbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/graphics2d-0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/pdfbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pradipta/Desktop/jar files/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
